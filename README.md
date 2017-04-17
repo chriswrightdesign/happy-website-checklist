@@ -10,7 +10,7 @@ The project aim is to have happier, educated teams and better quality websites a
 These are resources and tools that I think are excellent and add value to how we approach what we make. This is designed to be an argument buster and responsible decision primer for websites - with links to where I got the data, ideas, or followed a discussion.
 
 
-##1. Strategies for early project
+## 1. Strategies for early project
 
 - Making sure your values align with the client - [Prequalifying clients](http://danielmall.com/articles/prequalifying-clients/)
 - All about better project kick off meetings - [Kickass kickoff meetings](http://alistapart.com/article/kick-ass-kickoff-meetings)
@@ -29,7 +29,7 @@ These are resources and tools that I think are excellent and add value to how we
 - Establishing goals for feedback [How to run a design critique](http://scottberkun.com/essays/23-how-to-run-a-design-critique/)
 - Need to refactor? [Interface inventory](http://bradfrost.com/blog/post/interface-inventory/)
 
-##2. Better design decisions
+## 2. Better design decisions
 
 - Identify the intent behind design decisions - [Pull the trigger on design decisions](http://zurb.com/triggers)
 - A quick primer on some behavioural psychology behind design - [Brain gems for decision makers](http://coglode.com/)
@@ -37,7 +37,7 @@ These are resources and tools that I think are excellent and add value to how we
 - A visual look at some of the cognitive biases we have [Cognitive biases - a visual study guide](http://www.scribd.com/doc/30548590/Cognitive-Biases-A-Visual-Study-Guide)
 
 
-##3. Inclusive by design
+## 3. Inclusive by design
 - [A (Rough) Manifesto for Accessible User Experience](https://medium.com/@accessibleux/rough-manifesto-for-accessible-user-experience-10a3ea34a3d6) - A philosophy of Accessible user experience built by the community
 - [Accessibility Wins](http://a11ywins.tumblr.com/) - Marcy Sutton's Positive Accessibility examples
 - [UX accessibility with aria label](https://dev.opera.com/articles/ux-accessibility-aria-label/)
@@ -60,7 +60,7 @@ These are resources and tools that I think are excellent and add value to how we
 - [Accessibility lawsuits in america](http://www.accessibilityoz.com/2015/03/accessibility-lawsuits-in-america/)
 
 
-##4. Thinking about content first
+## 4. Thinking about content first
 
 - Emphasize the content [Interesting facts make web pages compelling](http://www.nngroup.com/articles/write-interesting-facts/)
 - Chunk content to allow for easier skim reading [Don't let paper paradigms drive your digital strategy](http://blogs.hbr.org/2013/06/dont-let-paper-paradigms-drive/)
@@ -73,7 +73,7 @@ These are resources and tools that I think are excellent and add value to how we
 - Avoiding the "crowbar" scenario [The content quandry](http://www.webcontentstrategy.com.au/the-content-quandary-when-the-words-wont-fit/)
 - Some example content snippets to help avoid lorem ipsum [Content snippets - specific copy examples](http://www.contentsnippets.com/)
 
-##5. Making things more usable
+## 5. Making things more usable
 
 - Understanding device inputs [Touch/pointer events test results](https://patrickhlauke.github.io/touch/tests/results/)
 - Can you perform the main tasks of a site on any device? [Impact of responsive designs](http://www.lukew.com/ff/entry.asp?1691)
@@ -97,7 +97,7 @@ These are resources and tools that I think are excellent and add value to how we
 - If you're making a product, how are users learning to use the product? [User onboarding - lessons from popular web apps](http://www.useronboard.com/)
 - Give your users smart work [Don't give your users shit work](http://zachholman.com/posts/shit-work/)
 
-##6. Easy Forms &amp; Form controls
+## 6. Easy Forms &amp; Form controls
 
 - Select tags: the UI of last resort [Burn your select tags](https://youtu.be/CUkMCQR4TpY)
 - Are the requirements clear, and have you removed any unnecessary requirements? [What impacts web form conversion](http://www.lukew.com/ff/entry.asp?1416) [Video: Increase form conversion](http://www.youtube.com/watch?v=ulJwW6zfR_o)
@@ -110,7 +110,7 @@ These are resources and tools that I think are excellent and add value to how we
 - How are you handling select boxes with massive amounts of options?
 - If you have a number stepper (input range), is it the standard up down that’s difficult to tap?
 
-##7. Structuring your stylesheets for scale and change
+## 7. Structuring your stylesheets for scale and change
 
 - Base, Element, Modifier [What is BEM?](http://bem.info/method/definitions/)
 - Getting your head around BEM [Mind BEMding - getting your head 'round BEM Syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
@@ -123,7 +123,7 @@ These are resources and tools that I think are excellent and add value to how we
 - Combining OOCSS with Sass [OOCSS + Sass = The best way to CSS] (http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/)
 - A tool to measure your CSS reuse [CSS Stats](http://www.cssstats.com/#/)
 
-##8. Typography - Establishing tone and making it readable
+## 8. Typography - Establishing tone and making it readable
 
 - [Baseline Grids and the web](http://jasonsantamaria.com/articles/baseline-grids-on-the-web)
 - The Psychology of fonts [What's in a font](http://www.psychologyinaction.org/2011/04/21/whats-in-a-font/), [Effects of typography on reader mood and productivity](http://usabilitypost.com/2012/11/23/effects-of-typography-on-reader-mood-and-productivity/)
@@ -147,7 +147,7 @@ These are resources and tools that I think are excellent and add value to how we
 - An argument to why you might want to leave the base font size alone [How we learned to leave the body font size alone](http://filamentgroup.com/lab/how_we_learned_to_leave_body_font_size_alone/)
 - Some typography basics to consider [A pocket guide to master every day's typographic adventures](http://www.typogui.de/)
 
-##9. Embracing viewport flexibility
+## 9. Embracing viewport flexibility
 
 - Media Queries Level 4 [Interaction Features and their potential (for incorrect assumptions)](https://dev.opera.com/articles/media-features/)
 - Gone beyond the old Phone/Tablet/Desktop mentality?  [Responsive web design: missing the point](http://bradfrostweb.com/blog/web/responsive-web-design-missing-the-point/), [Screen Sizes](http://screensiz.es/phone), [In tablets, smaller is bigger](http://www.lukew.com/ff/entry.asp?1695), [The shifting tablet market](http://www.lukew.com/ff/entry.asp?1692)
@@ -163,7 +163,7 @@ These are resources and tools that I think are excellent and add value to how we
 - Are your breakpoints between CSS and MatchMedia out of control? [A solution to dealing with breakpoints by defining breakpoints in the meta tag] (https://github.com/benschwarz/metaquery)
 - [Vertical media queries and wide sites](http://trentwalton.com/2012/01/11/vertical-media-queries-wide-sites/)
 
-##10. Understanding flexible media
+## 10. Understanding flexible media
 
 - Large banner images with text [Responsive hero images](http://blog.cloudfour.com/responsive-hero-images/)
 - Responsive Images 101 [Part1 - Definitions](http://blog.cloudfour.com/responsive-images-101-definitions/)
@@ -187,7 +187,7 @@ These are resources and tools that I think are excellent and add value to how we
 - How are you dealing with video, both in scale and bandwidth? [Fitvid.js](http://fitvidsjs.com/)
 - How are you dealing with maps? [Responsive maps](http://trentwalton.com/2013/04/11/responsive-maps/), [Adaptive maps](http://bradfrostweb.com/blog/post/adaptive-maps/)
 
-##11. Avoid frustrating people: performance
+## 11. Avoid frustrating people: performance
 
 - [More Weight doesn't mean more wait](http://www.filamentgroup.com/lab/weight-wait.html)
 - [Inlining Critical CSS for first time visits](https://adactio.com/journal/8504)
@@ -215,7 +215,7 @@ These are resources and tools that I think are excellent and add value to how we
 - Are you loading 3rd party content asynchronously? [How to lose weight in the browser - load 3rd party content asynchronously](http://browserdiet.com/#3rd-party-async)
 - Understanding CSS Performance [CSS Performance revisited: selectors, bloat and expensive styles](http://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/)
 
-##12. Bringing the design alive - Kinetic / Animation
+## 12. Bringing the design alive - Kinetic / Animation
 
 - Did you use animation to provide context to the interface? [Transitional interfaces](https://medium.com/design-ux/926eb80d64e3) [Improve the payment experience with animations](https://medium.com/p/3d1b0a9b810e) [Meaningful Transitions](http://www.ui-transitions.com/#home)
 - [UI Animation and UX: A not-so-secret friendship](http://alistapart.com/article/ui-animation-and-ux-a-not-so-secret-friendship)
@@ -227,7 +227,7 @@ These are resources and tools that I think are excellent and add value to how we
 - A collection of animated interactions [Useyourinterface](http://useyourinterface.com/)
 - A Dribbble search on interaction as a source of inspiration [Dribbble](https://dribbble.com/search?q=interaction)
 
-##13. Testing for multiple devices and browsers
+## 13. Testing for multiple devices and browsers
 
 - How to start your own open device lab - [Starting an open device lab without breaking the bank](https://medium.com/product-design/a3ad4da66c02)
 - Getting access to devices on a shoe string - [Test in real devices without breaking the bank](http://bradfrostweb.com/blog/mobile/test-on-real-mobile-devices-without-breaking-the-bank/)
@@ -235,9 +235,9 @@ These are resources and tools that I think are excellent and add value to how we
 - Making a portable open device lab [Open device lab in a suitcase](https://medium.com/p/122f87dac737)
 - An application for testing a cross multiple browsers and devices - [BrowserStack](http://www.browserstack.com/start)
 
-##14. Deliverables for clients and teams
+## 14. Deliverables for clients and teams
 
-###A. Client deliverables
+### A. Client deliverables
 
 - [The post PSD era](http://danielmall.com/articles/the-post-psd-era/)
 - [Style prototypes](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
@@ -246,7 +246,7 @@ These are resources and tools that I think are excellent and add value to how we
 - [Responsive deliverables](http://daverupert.com/2013/04/responsive-deliverables/)
 - [Atomic design](http://bradfrostweb.com/blog/post/atomic-web-design/)
 
-###B. Team deliverables
+### B. Team deliverables
 
 - A guide for writing content in the right voice &amp; tone [Voice and Tone: Mailchimp] (http://voiceandtone.com/)
 - An example pattern library - [A List apart pattern library](http://patterns.alistapart.com/)
